@@ -28,5 +28,14 @@ For this Project, we will take 2 classes from the CIFAR Dataset for Bicycles & M
 - Step 5: Visualising Inferences from Step Functions
 - Step 6: Cleanup cloud resources
 
+### File Structure
+
+- SconesProjectNB is a Jupyter NB containing the overall code for the execution of project
+- Lambda.py contains the definitions of all 3 Lambda Functions created in AWS Lambda, which were chained together on AWS SageMaker
+- stepfunction.json contains the definition of the step function used in AWS Step Function chaning the entire pipeline for inference with the Lambdas
+- The Screen Shots for the Step Function Executions with both passing & failing threshold values are present in the AWS WorkFlow SS Folder
+
+Have a Nice Day :) 
+
 ### License
 [License](LICENSE.txt)
