@@ -3,6 +3,8 @@ This is the Image Classification Project with AWS SageMaker and Workflows under 
 
 ## AWS Machine Learning Engineer Nanodegree
 
+NOTE: THIS PROJECT HAS BEEN REVIEWED AND APPROVED BY AN UDACITY NANODEGREE MENTOR
+
 ### Overview
 
 In this Project, the concepts of AWS Lambdas, Step Functions, EndPoints, Model Monitor through SageMaker, S3 and Pipelines were implemented
